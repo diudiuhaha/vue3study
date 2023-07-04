@@ -1,4 +1,3 @@
-// my-vue-app/src/router/index.js
 import { createRouter,createWebHashHistory } from "vue-router"; //按需引入
 //声明
 const routes = [{
